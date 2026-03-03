@@ -6,6 +6,35 @@
   },
   "entries": [
     {
+      "id": "20260302-193424-ib3l",
+      "title": "Goon Anui, Shia Eventide",
+      "commanders": [
+        "Goon Anui",
+        "Shia Eventide"
+      ],
+      "dateStart": "2026-03-02T18:34:24.000Z",
+      "dateEnd": "2026-03-02T20:32:13.000Z",
+      "dateLabel": "2.3.2026, 19:34:24 - 2.3.2026, 21:32:13",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260302-193424-ib3l",
+      "summary": {
+        "borderlandsPct": 0.7954545454545454,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 35,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260303-200423-3day",
       "title": "Just Mad N Fluffy",
       "commanders": [
