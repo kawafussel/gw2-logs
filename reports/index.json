@@ -1,0 +1,37 @@
+{
+  "siteTheme": {
+    "ui": "classic",
+    "paletteId": "Arcane",
+    "kineticFont": "default"
+  },
+  "entries": [
+    {
+      "id": "20260303-200423-3day",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-03-03T19:04:23.000Z",
+      "dateEnd": "2026-03-03T20:48:59.000Z",
+      "dateLabel": "3.3.2026, 20:04:23 - 3.3.2026, 21:48:59",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260303-200423-3day",
+      "summary": {
+        "borderlandsPct": 0.9714285714285714,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 34,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 35
+      }
+    }
+  ]
+}
