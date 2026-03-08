@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260308-203341-r5gm",
+      "title": "Several Mesmize",
+      "commanders": [
+        "Several Mesmize"
+      ],
+      "dateStart": "2026-03-08T19:33:41.000Z",
+      "dateEnd": "2026-03-08T20:58:37.000Z",
+      "dateLabel": "8.3.2026, 20:33:41 - 8.3.2026, 21:58:37",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260308-203341-r5gm",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 45,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260304-193944-5mau",
       "title": "Goon Anui",
       "commanders": [
