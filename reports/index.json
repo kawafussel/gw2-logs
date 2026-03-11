@@ -6,6 +6,30 @@
   },
   "entries": [
     {
+      "id": "20260311-193052-6ond",
+      "title": "Several Mesmize, Shia Eventide",
+      "commanders": [
+        "Several Mesmize",
+        "Shia Eventide"
+      ],
+      "dateStart": "2026-03-11T18:30:52.000Z",
+      "dateEnd": "2026-03-11T20:29:44.000Z",
+      "dateLabel": "11.3.2026, 19:30:52 - 11.3.2026, 21:29:44",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260311-193052-6ond",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 41,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260309-194734-c0zd",
       "title": "Strádùs",
       "commanders": [
