@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260314-214131-e4i7",
+      "title": "Human Tamed A Cat",
+      "commanders": [
+        "Human Tamed A Cat"
+      ],
+      "dateStart": "2026-03-14T20:41:31.000Z",
+      "dateEnd": "2026-03-14T21:34:01.000Z",
+      "dateLabel": "14.3.2026, 21:41:31 - 14.3.2026, 22:34:01",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260314-214131-e4i7",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260314-141425-70j8",
       "title": "Human Tamed A Cat",
       "commanders": [
