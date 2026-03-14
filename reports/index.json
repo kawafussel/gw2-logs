@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260313-193441-04lt",
+      "title": "Yoloola",
+      "commanders": [
+        "Yoloola"
+      ],
+      "dateStart": "2026-03-13T18:34:41.000Z",
+      "dateEnd": "2026-03-13T18:43:11.000Z",
+      "dateLabel": "13.3.2026, 19:34:41 - 13.3.2026, 19:43:11",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260313-193441-04lt",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 0
+      }
+    },
+    {
       "id": "20260314-214131-e4i7",
       "title": "Human Tamed A Cat",
       "commanders": [
