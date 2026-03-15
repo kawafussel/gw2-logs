@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260315-223721-hw5l",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-03-15T21:37:21.000Z",
+      "dateEnd": "2026-03-15T22:00:26.000Z",
+      "dateLabel": "15.3.2026, 22:37:21 - 15.3.2026, 23:00:26",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260315-223721-hw5l",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 8
+      }
+    },
+    {
       "id": "20260313-193441-04lt",
       "title": "Yoloola",
       "commanders": [
