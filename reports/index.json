@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260319-200323-c8w2",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
+      ],
+      "dateStart": "2026-03-19T19:03:23.000Z",
+      "dateEnd": "2026-03-19T20:45:51.000Z",
+      "dateLabel": "19.3.2026, 20:03:23 - 19.3.2026, 21:45:51",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260319-200323-c8w2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 37,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260315-223721-hw5l",
       "title": "Just Mad N Fluffy",
       "commanders": [
