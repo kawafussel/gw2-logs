@@ -6,6 +6,39 @@
   },
   "entries": [
     {
+      "id": "20260322-141305-o4gg",
+      "title": "Me My Clones And I",
+      "commanders": [
+        "Me My Clones And I"
+      ],
+      "dateStart": "2026-03-22T13:13:05.000Z",
+      "dateEnd": "2026-03-22T14:38:09.000Z",
+      "dateLabel": "22.3.2026, 14:13:05 - 22.3.2026, 15:38:09",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260322-141305-o4gg",
+      "summary": {
+        "borderlandsPct": 0.41379310344827586,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260319-200323-c8w2",
       "title": "Strádùs",
       "commanders": [
