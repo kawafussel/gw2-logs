@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260324-200220-fg7s",
+      "title": "Might Be A Spoon",
+      "commanders": [
+        "Might Be A Spoon"
+      ],
+      "dateStart": "2026-03-24T19:02:20.000Z",
+      "dateEnd": "2026-03-24T21:25:12.000Z",
+      "dateLabel": "24.3.2026, 20:02:20 - 24.3.2026, 22:25:12",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260324-200220-fg7s",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 50,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260323-194212-euuf",
       "title": "Astolfo Sharumanyu",
       "commanders": [
