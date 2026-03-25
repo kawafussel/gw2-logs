@@ -6,6 +6,39 @@
   },
   "entries": [
     {
+      "id": "20260325-193819-nxbi",
+      "title": "Shia Eventide",
+      "commanders": [
+        "Shia Eventide"
+      ],
+      "dateStart": "2026-03-25T18:38:19.000Z",
+      "dateEnd": "2026-03-25T20:32:19.000Z",
+      "dateLabel": "25.3.2026, 19:38:19 - 25.3.2026, 21:32:19",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260325-193819-nxbi",
+      "summary": {
+        "borderlandsPct": 0.47619047619047616,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260324-200220-fg7s",
       "title": "Might Be A Spoon",
       "commanders": [
