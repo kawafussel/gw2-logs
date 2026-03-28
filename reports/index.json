@@ -6,6 +6,35 @@
   },
   "entries": [
     {
+      "id": "20260328-141501-lb2a",
+      "title": "Human Tamed A Cat, Me My Clones And I",
+      "commanders": [
+        "Human Tamed A Cat",
+        "Me My Clones And I"
+      ],
+      "dateStart": "2026-03-28T13:15:01.000Z",
+      "dateEnd": "2026-03-28T15:10:36.000Z",
+      "dateLabel": "28.3.2026, 14:15:01 - 28.3.2026, 16:10:36",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260328-141501-lb2a",
+      "summary": {
+        "borderlandsPct": 0.9,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260328-203149-3o9n",
       "title": "Dalaxis",
       "commanders": [
