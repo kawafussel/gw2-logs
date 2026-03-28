@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260328-203149-3o9n",
+      "title": "Dalaxis",
+      "commanders": [
+        "Dalaxis"
+      ],
+      "dateStart": "2026-03-28T19:31:49.000Z",
+      "dateEnd": "2026-03-28T20:32:08.000Z",
+      "dateLabel": "28.3.2026, 20:31:49 - 28.3.2026, 21:32:08",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260328-203149-3o9n",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260326-193214-l8mh",
       "title": "Strádùs",
       "commanders": [
