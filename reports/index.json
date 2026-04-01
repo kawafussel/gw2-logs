@@ -1,10 +1,30 @@
 {
-  "siteTheme": {
-    "ui": "classic",
-    "paletteId": "Arcane",
-    "kineticFont": "default"
-  },
+  "colorPalette": "electric-blue",
+  "glassSurfaces": true,
   "entries": [
+    {
+      "id": "20260401-193709-ey23",
+      "title": "Shia Eventide",
+      "commanders": [
+        "Shia Eventide"
+      ],
+      "dateStart": "2026-04-01T17:37:09.000Z",
+      "dateEnd": "2026-04-01T19:30:27.000Z",
+      "dateLabel": "1.4.2026, 19:37:09 - 1.4.2026, 21:30:27",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260401-193709-ey23",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 38
+      }
+    },
     {
       "id": "20260328-141501-lb2a",
       "title": "Human Tamed A Cat, Me My Clones And I",
