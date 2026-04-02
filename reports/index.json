@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260402-200408-p8cn",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
+      ],
+      "dateStart": "2026-04-02T18:04:08.000Z",
+      "dateEnd": "2026-04-02T19:53:14.000Z",
+      "dateLabel": "2.4.2026, 20:04:08 - 2.4.2026, 21:53:14",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260402-200408-p8cn",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 32,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260401-193709-ey23",
       "title": "Shia Eventide",
       "commanders": [
