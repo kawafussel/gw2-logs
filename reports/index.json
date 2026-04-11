@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260411-210329-bz7m",
+      "title": "Goon Anui",
+      "commanders": [
+        "Goon Anui"
+      ],
+      "dateStart": "2026-04-11T19:03:29.000Z",
+      "dateEnd": "2026-04-11T20:11:22.000Z",
+      "dateLabel": "11.4.2026, 21:03:29 - 11.4.2026, 22:11:22",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260411-210329-bz7m",
+      "summary": {
+        "borderlandsPct": 0.2857142857142857,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260408-193711-4vhl",
       "title": "Shia Eventide",
       "commanders": [
