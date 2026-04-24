@@ -3,6 +3,27 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260424-212425-4w8z",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "dateStart": "2026-04-24T19:24:25.000Z",
+      "dateEnd": "2026-04-24T20:16:28.000Z",
+      "dateLabel": "24.4.2026, 21:24:25 - 24.4.2026, 22:16:28",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260424-212425-4w8z",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 4,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260422-200929-zhrf",
       "title": "Aesris Salat, Goon Anui",
       "commanders": [
