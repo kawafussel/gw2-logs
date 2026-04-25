@@ -3,6 +3,30 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260425-211546-leea",
+      "title": "Aesris Salat, Goon Anui",
+      "commanders": [
+        "Aesris Salat",
+        "Goon Anui"
+      ],
+      "dateStart": "2026-04-25T19:15:46.000Z",
+      "dateEnd": "2026-04-25T20:10:26.000Z",
+      "dateLabel": "25.4.2026, 21:15:46 - 25.4.2026, 22:10:26",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260425-211546-leea",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 34,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260424-212425-4w8z",
       "title": "Unknown Commander",
       "commanders": [],
