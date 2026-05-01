@@ -3,6 +3,39 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260501-223055-vk8u",
+      "title": "Oopswrongway",
+      "commanders": [
+        "Oopswrongway"
+      ],
+      "dateStart": "2026-05-01T20:30:55.000Z",
+      "dateEnd": "2026-05-01T21:15:27.000Z",
+      "dateLabel": "1.5.2026, 22:30:55 - 1.5.2026, 23:15:27",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260501-223055-vk8u",
+      "summary": {
+        "borderlandsPct": 0.6428571428571429,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 30,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260427-205703-qbpu",
       "title": "Shia Eventide",
       "commanders": [
