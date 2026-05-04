@@ -3,6 +3,35 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260504-205232-g06p",
+      "title": "Guardsunny, Shia Eventide",
+      "commanders": [
+        "Guardsunny",
+        "Shia Eventide"
+      ],
+      "dateStart": "2026-05-04T18:52:32.000Z",
+      "dateEnd": "2026-05-04T19:41:42.000Z",
+      "dateLabel": "4.5.2026, 20:52:32 - 4.5.2026, 21:41:42",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260504-205232-g06p",
+      "summary": {
+        "borderlandsPct": 0.43902439024390244,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260502-213605-2262",
       "title": "Oopswrongway",
       "commanders": [
