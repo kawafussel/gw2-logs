@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260507-200037-o5je",
+      "title": "Guardsunny",
+      "commanders": [
+        "Guardsunny"
+      ],
+      "dateStart": "2026-05-07T18:00:37.000Z",
+      "dateEnd": "2026-05-07T18:39:12.000Z",
+      "dateLabel": "7.5.2026, 20:00:37 - 7.5.2026, 20:39:12",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260507-200037-o5je",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260504-205232-eh4d",
       "title": "Guardsunny, Shia Eventide",
       "commanders": [
