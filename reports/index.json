@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260511-210344-v8nj",
+      "title": "Oopswrongway",
+      "commanders": [
+        "Oopswrongway"
+      ],
+      "dateStart": "2026-05-11T19:03:44.000Z",
+      "dateEnd": "2026-05-11T20:13:01.000Z",
+      "dateLabel": "11.5.2026, 21:03:44 - 11.5.2026, 22:13:01",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260511-210344-v8nj",
+      "summary": {
+        "borderlandsPct": 0.07692307692307693,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 36,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260508-214051-dxpe",
       "title": "Oopswrongway",
       "commanders": [
