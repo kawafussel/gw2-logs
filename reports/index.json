@@ -4,6 +4,30 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260523-211446-2b2y",
+      "title": "Oopswrongway, Power Puff Goon",
+      "commanders": [
+        "Oopswrongway",
+        "Power Puff Goon"
+      ],
+      "dateStart": "2026-05-23T19:14:46.000Z",
+      "dateEnd": "2026-05-23T19:50:01.000Z",
+      "dateLabel": "23.5.2026, 21:14:46 - 23.5.2026, 21:50:01",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260523-211446-2b2y",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 46,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260521-212759-jgzi",
       "title": "Oopswrongway",
       "commanders": [
