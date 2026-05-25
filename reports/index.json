@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260525-203837-tibn",
+      "title": "Oopswrongway",
+      "commanders": [
+        "Oopswrongway"
+      ],
+      "dateStart": "2026-05-25T18:38:37.000Z",
+      "dateEnd": "2026-05-25T19:21:38.000Z",
+      "dateLabel": "25.5.2026, 20:38:37 - 25.5.2026, 21:21:38",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260525-203837-tibn",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 13
+      }
+    },
+    {
       "id": "20260523-211446-2b2y",
       "title": "Oopswrongway, Power Puff Goon",
       "commanders": [
