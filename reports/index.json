@@ -4,6 +4,30 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260528-204256-s1b5",
+      "title": "Goon Anui, Oopswrongway",
+      "commanders": [
+        "Goon Anui",
+        "Oopswrongway"
+      ],
+      "dateStart": "2026-05-28T18:42:56.000Z",
+      "dateEnd": "2026-05-28T19:52:01.000Z",
+      "dateLabel": "28.5.2026, 20:42:56 - 28.5.2026, 21:52:01",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260528-204256-s1b5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 47,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260526-201243-tfkz",
       "title": "Guardsunny, Oopswrongway",
       "commanders": [
