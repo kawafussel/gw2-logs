@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260604-205004-gik7",
+      "title": "Oopswrongway",
+      "commanders": [
+        "Oopswrongway"
+      ],
+      "dateStart": "2026-06-04T18:50:04.000Z",
+      "dateEnd": "2026-06-04T19:10:18.000Z",
+      "dateLabel": "4.6.2026, 20:50:04 - 4.6.2026, 21:10:18",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260604-205004-gik7",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Obsidian Sanctum",
+            "value": 21,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260604-205004-8tcs",
       "title": "Oopswrongway",
       "commanders": [
