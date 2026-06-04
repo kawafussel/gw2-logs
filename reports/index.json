@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260604-200710-g07r",
+      "title": "Oopswrongway",
+      "commanders": [
+        "Oopswrongway"
+      ],
+      "dateStart": "2026-06-04T18:07:10.000Z",
+      "dateEnd": "2026-06-04T18:46:09.000Z",
+      "dateLabel": "4.6.2026, 20:07:10 - 4.6.2026, 20:46:09",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260604-200710-g07r",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Obsidian Sanctum",
+            "value": 10,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260601-204820-uzi4",
       "title": "Akecheta Yps, Guardsunny",
       "commanders": [
