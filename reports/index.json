@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260608-205819-05wi",
+      "title": "Oopswrongway",
+      "commanders": [
+        "Oopswrongway"
+      ],
+      "dateStart": "2026-06-08T18:58:19.000Z",
+      "dateEnd": "2026-06-08T19:21:05.000Z",
+      "dateLabel": "8.6.2026, 20:58:19 - 8.6.2026, 21:21:05",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260608-205819-05wi",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 63,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260606-213431-8esh",
       "title": "Goon Anui",
       "commanders": [
