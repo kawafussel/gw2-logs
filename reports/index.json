@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260611-195212-vl34",
+      "title": "Illuravision",
+      "commanders": [
+        "Illuravision"
+      ],
+      "dateStart": "2026-06-11T17:52:12.000Z",
+      "dateEnd": "2026-06-11T18:38:17.000Z",
+      "dateLabel": "11.6.2026, 19:52:12 - 11.6.2026, 20:38:17",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260611-195212-vl34",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 24,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260609-204235-bjb6",
       "title": "Oopswrongway",
       "commanders": [
