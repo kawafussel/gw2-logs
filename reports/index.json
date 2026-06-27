@@ -4,6 +4,30 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260627-210011-kh2s",
+      "title": "Guardsunny, Oopswrongway",
+      "commanders": [
+        "Guardsunny",
+        "Oopswrongway"
+      ],
+      "dateStart": "2026-06-27T19:00:11.000Z",
+      "dateEnd": "2026-06-27T19:34:14.000Z",
+      "dateLabel": "27.6.2026, 21:00:11 - 27.6.2026, 21:34:14",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260627-210011-kh2s",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 56,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260626-215005-wac2",
       "title": "Oopswrongway",
       "commanders": [
