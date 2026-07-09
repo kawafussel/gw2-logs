@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260709-205840-542n",
+      "title": "Oopswrongway",
+      "commanders": [
+        "Oopswrongway"
+      ],
+      "dateStart": "2026-07-09T18:58:40.000Z",
+      "dateEnd": "2026-07-09T19:37:16.000Z",
+      "dateLabel": "9.7.2026, 20:58:40 - 9.7.2026, 21:37:16",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260709-205840-542n",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 58,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260707-203838-n5pu",
       "title": "Goon Anui, Illuravision",
       "commanders": [
