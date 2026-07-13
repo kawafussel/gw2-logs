@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260713-190535-49v5",
+      "title": "Oopswrongway",
+      "commanders": [
+        "Oopswrongway"
+      ],
+      "dateStart": "2026-07-13T17:05:35.000Z",
+      "dateEnd": "2026-07-13T19:22:47.000Z",
+      "dateLabel": "13.7.2026, 19:05:35 - 13.7.2026, 21:22:47",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260713-190535-49v5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260711-204846-9dvk",
       "title": "Búggí, Goon Anui, Levi X Ackerman, Oopswrongway, Spamespace",
       "commanders": [
