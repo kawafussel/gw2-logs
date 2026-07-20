@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260720-205304-516n",
+      "title": "Oopswrongway",
+      "commanders": [
+        "Oopswrongway"
+      ],
+      "dateStart": "2026-07-20T18:53:04.000Z",
+      "dateEnd": "2026-07-20T19:21:28.000Z",
+      "dateLabel": "20.7.2026, 20:53:04 - 20.7.2026, 21:21:28",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260720-205304-516n",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 33,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260718-210427-xorl",
       "title": "Oopswrongway",
       "commanders": [
