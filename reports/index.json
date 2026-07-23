@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260723-205625-a4g3",
+      "title": "Goonstyle",
+      "commanders": [
+        "Goonstyle"
+      ],
+      "dateStart": "2026-07-23T18:56:25.000Z",
+      "dateEnd": "2026-07-23T19:33:13.000Z",
+      "dateLabel": "23.7.2026, 20:56:25 - 23.7.2026, 21:33:13",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260723-205625-a4g3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 61,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260722-195809-rnsq",
       "title": "Oopswrongway",
       "commanders": [
