@@ -4,6 +4,29 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260728-203431-dtd7",
+      "title": "Zyxjan",
+      "commanders": [
+        "Zyxjan"
+      ],
+      "dateStart": "2026-07-28T18:34:31.000Z",
+      "dateEnd": "2026-07-28T19:29:45.000Z",
+      "dateLabel": "28.7.2026, 20:34:31 - 28.7.2026, 21:29:45",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260728-203431-dtd7",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260723-205625-a4g3",
       "title": "Goonstyle",
       "commanders": [
