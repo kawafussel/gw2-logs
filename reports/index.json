@@ -4,6 +4,44 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260806-210937-qg1y",
+      "title": "Roguewarriorz",
+      "commanders": [
+        "Roguewarriorz"
+      ],
+      "guild": {
+        "id": "F2EE748F-C1C6-4179-B0CD-D0B19FEF59A5",
+        "name": "The Scouts Elite Regiment",
+        "tag": "TSR"
+      },
+      "dateStart": "2026-08-06T19:09:37.000Z",
+      "dateEnd": "2026-08-06T19:53:07.000Z",
+      "dateLabel": "6.8.2026, 21:09:37 - 6.8.2026, 21:53:07",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260806-210937-qg1y",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 42,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260805-213257-p9y1",
       "title": "Zyxjan",
       "commanders": [
