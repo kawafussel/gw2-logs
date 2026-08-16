@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260816-210504-xs4u",
+      "title": "Zyxjan",
+      "commanders": [
+        "Zyxjan"
+      ],
+      "guild": {
+        "id": "57B6AE9E-6472-EF11-81B8-D206D0C515D3",
+        "name": "Devilmouth",
+        "tag": "ZYX"
+      },
+      "dateStart": "2026-08-16T19:05:04.000Z",
+      "dateEnd": "2026-08-16T19:28:11.000Z",
+      "dateLabel": "16.8.2026, 21:05:04 - 16.8.2026, 21:28:11",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260816-210504-xs4u",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 44,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260815-204524-dym9",
       "title": "Fatale Fatma",
       "commanders": [
