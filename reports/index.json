@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260817-204107-g35p",
+      "title": "Fatale Fatma",
+      "commanders": [
+        "Fatale Fatma"
+      ],
+      "guild": {
+        "id": "F2EE748F-C1C6-4179-B0CD-D0B19FEF59A5",
+        "name": "The Scouts Elite Regiment",
+        "tag": "TSR"
+      },
+      "dateStart": "2026-08-17T18:41:07.000Z",
+      "dateEnd": "2026-08-17T19:18:55.000Z",
+      "dateLabel": "17.8.2026, 20:41:07 - 17.8.2026, 21:18:55",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260817-204107-g35p",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 33,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260816-210504-xs4u",
       "title": "Zyxjan",
       "commanders": [
