@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260820-211015-wid9",
+      "title": "Oopswrongway",
+      "commanders": [
+        "Oopswrongway"
+      ],
+      "guild": {
+        "id": "F2EE748F-C1C6-4179-B0CD-D0B19FEF59A5",
+        "name": "The Scouts Elite Regiment",
+        "tag": "TSR"
+      },
+      "dateStart": "2026-08-20T19:10:15.000Z",
+      "dateEnd": "2026-08-20T19:37:17.671Z",
+      "dateLabel": "20.8.2026, 21:10:15 - 20.8.2026, 21:37:17",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260820-211015-wid9",
+      "summary": {
+        "borderlandsPct": 0.2413793103448276,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 44,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 14,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260819-211019-thsx",
       "title": "Oopswrongway",
       "commanders": [
