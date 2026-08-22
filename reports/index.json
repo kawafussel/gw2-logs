@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260822-203505-btnd",
+      "title": "Goonstyle",
+      "commanders": [
+        "Goonstyle"
+      ],
+      "guild": {
+        "id": "6CA8F989-79AD-418D-A9BA-8ADFA87FFA5F",
+        "name": "World Wide Damage",
+        "tag": "INC"
+      },
+      "dateStart": "2026-08-22T18:35:05.000Z",
+      "dateEnd": "2026-08-22T19:17:36.288Z",
+      "dateLabel": "22.8.2026, 20:35:05 - 22.8.2026, 21:17:36",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260822-203505-btnd",
+      "summary": {
+        "borderlandsPct": 0.8,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 28,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260822-203603-tiha",
       "title": "Goonstyle",
       "commanders": [
