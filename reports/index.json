@@ -4,6 +4,39 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260825-204951-lxxk",
+      "title": "Zyx Q",
+      "commanders": [
+        "Zyx Q"
+      ],
+      "guild": {
+        "id": "57B6AE9E-6472-EF11-81B8-D206D0C515D3",
+        "name": "Devilmouth",
+        "tag": "ZYX"
+      },
+      "dateStart": "2026-08-25T18:49:51.000Z",
+      "dateEnd": "2026-08-25T19:26:44.708Z",
+      "dateLabel": "25.8.2026, 20:49:51 - 25.8.2026, 21:26:44",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260825-204951-lxxk",
+      "summary": {
+        "borderlandsPct": 0.5,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 20,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260824-194913-sjau",
       "title": "Guardsunny",
       "commanders": [
