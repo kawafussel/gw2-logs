@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260901-205248-o2ih",
+      "title": "Zyxjan",
+      "commanders": [
+        "Zyxjan"
+      ],
+      "guild": {
+        "id": "57B6AE9E-6472-EF11-81B8-D206D0C515D3",
+        "name": "Devilmouth",
+        "tag": "ZYX"
+      },
+      "dateStart": "2026-09-01T18:52:48.000Z",
+      "dateEnd": "2026-09-01T19:28:35.692Z",
+      "dateLabel": "1.9.2026, 20:52:48 - 1.9.2026, 21:28:35",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260901-205248-o2ih",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 49,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260830-205944-w6rn",
       "title": "Zyxjan",
       "commanders": [
