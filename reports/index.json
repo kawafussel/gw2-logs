@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260906-203928-gw3u",
+      "title": "Zyx Q",
+      "commanders": [
+        "Zyx Q"
+      ],
+      "guild": {
+        "id": "57B6AE9E-6472-EF11-81B8-D206D0C515D3",
+        "name": "Devilmouth",
+        "tag": "ZYX"
+      },
+      "dateStart": "2026-09-06T18:39:28.000Z",
+      "dateEnd": "2026-09-06T19:22:39.797Z",
+      "dateLabel": "6.9.2026, 20:39:28 - 6.9.2026, 21:22:39",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260906-203928-gw3u",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 38,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260905-205944-jprf",
       "title": "Guardsunny",
       "commanders": [
