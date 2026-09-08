@@ -4,6 +4,34 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260908-204942-notg",
+      "title": "Zyxjan",
+      "commanders": [
+        "Zyxjan"
+      ],
+      "guild": {
+        "id": "57B6AE9E-6472-EF11-81B8-D206D0C515D3",
+        "name": "Devilmouth",
+        "tag": "ZYX"
+      },
+      "dateStart": "2026-09-08T18:49:42.000Z",
+      "dateEnd": "2026-09-08T19:33:19.574Z",
+      "dateLabel": "8.9.2026, 20:49:42 - 8.9.2026, 21:33:19",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260908-204942-notg",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 37,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260907-203204-o5gm",
       "title": "Oopswrongway",
       "commanders": [
