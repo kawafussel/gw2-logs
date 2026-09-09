@@ -4,6 +4,40 @@
   "glassmorphic": true,
   "entries": [
     {
+      "id": "20260909-205208-rrod",
+      "title": "Guardsunny, Oopswrongway",
+      "commanders": [
+        "Guardsunny",
+        "Oopswrongway"
+      ],
+      "guild": {
+        "id": "F2EE748F-C1C6-4179-B0CD-D0B19FEF59A5",
+        "name": "The Scouts Elite Regiment",
+        "tag": "TSR"
+      },
+      "dateStart": "2026-09-09T18:52:08.000Z",
+      "dateEnd": "2026-09-09T19:12:31.097Z",
+      "dateLabel": "9.9.2026, 20:52:08 - 9.9.2026, 21:12:31",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260909-205208-rrod",
+      "summary": {
+        "borderlandsPct": 0.328125,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 43,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260908-204942-notg",
       "title": "Zyxjan",
       "commanders": [
