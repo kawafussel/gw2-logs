@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260927-205003-9v8g",
+      "title": "Zyx Q",
+      "commanders": [
+        "Zyx Q"
+      ],
+      "guild": {
+        "id": "57B6AE9E-6472-EF11-81B8-D206D0C515D3",
+        "name": "Devilmouth",
+        "tag": "ZYX"
+      },
+      "dateStart": "2026-09-27T18:50:03.000Z",
+      "dateEnd": "2026-09-27T19:34:54.003Z",
+      "dateLabel": "27.9.2026, 20:50:03 - 27.9.2026, 21:34:54",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20260927-205003-9v8g",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 50,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260926-202954-ft87",
       "title": "Goon Anui",
       "commanders": [
