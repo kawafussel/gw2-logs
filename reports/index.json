@@ -1,9 +1,47 @@
 {
   "colorPalette": "electric-blue",
+  "axiTheme": "glass",
+  "glass": true,
   "glassSurfaces": true,
-  "glassmorphic": true,
-  "axiDesign": false,
   "entries": [
+    {
+      "id": "20261001-205117-x85z",
+      "title": "Oopswrongway",
+      "commanders": [
+        "Oopswrongway"
+      ],
+      "guild": {
+        "id": "F2EE748F-C1C6-4179-B0CD-D0B19FEF59A5",
+        "name": "The Scouts Elite Regiment",
+        "tag": "TSR"
+      },
+      "dateStart": "2026-10-01T18:51:17.000Z",
+      "dateEnd": "2026-10-01T19:22:56.230Z",
+      "dateLabel": "1.10.2026, 20:51:17 - 1.10.2026, 21:22:56",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20261001-205117-x85z",
+      "summary": {
+        "borderlandsPct": 0.8809523809523809,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 37,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Edge of the Mists",
+            "value": 4,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 34
+      }
+    },
     {
       "id": "20260927-205003-9v8g",
       "title": "Zyx Q",
