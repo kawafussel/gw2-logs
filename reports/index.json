@@ -1,9 +1,49 @@
 {
-  "colorPalette": "electric-blue",
+  "colorPalette": "refined-cyan",
   "axiTheme": "glass",
   "glass": true,
   "glassSurfaces": true,
   "entries": [
+    {
+      "id": "20261003-203426-593b",
+      "title": "Goon Anui, Guardsunny, Oopswrongway",
+      "commanders": [
+        "Goon Anui",
+        "Guardsunny",
+        "Oopswrongway"
+      ],
+      "guild": {
+        "id": "F2EE748F-C1C6-4179-B0CD-D0B19FEF59A5",
+        "name": "The Scouts Elite Regiment",
+        "tag": "TSR"
+      },
+      "dateStart": "2026-10-03T18:34:26.000Z",
+      "dateEnd": "2026-10-03T19:33:20.053Z",
+      "dateLabel": "3.10.2026, 20:34:26 - 3.10.2026, 21:33:20",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20261003-203426-593b",
+      "summary": {
+        "borderlandsPct": 0.9166666666666666,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 26,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 31
+      }
+    },
     {
       "id": "20261001-205117-x85z",
       "title": "Oopswrongway",
