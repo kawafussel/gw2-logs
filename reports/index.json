@@ -5,6 +5,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20261007-203044-uecn",
+      "title": "Aliya Carwyn",
+      "commanders": [
+        "Aliya Carwyn"
+      ],
+      "guild": {
+        "id": "CB604CF1-BD3C-E711-80D3-E4115BD7B405",
+        "name": "Third Triumvirate",
+        "tag": "TT"
+      },
+      "dateStart": "2026-10-07T18:30:44.000Z",
+      "dateEnd": "2026-10-07T19:06:52.003Z",
+      "dateLabel": "7.10.2026, 20:30:44 - 7.10.2026, 21:06:52",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20261007-203044-uecn",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20261003-203426-593b",
       "title": "Goon Anui, Guardsunny, Oopswrongway",
       "commanders": [
