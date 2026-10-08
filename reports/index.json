@@ -1,9 +1,47 @@
 {
-  "colorPalette": "refined-cyan",
-  "axiTheme": "glass",
-  "glass": true,
-  "glassSurfaces": true,
+  "colorPalette": "slate-silver",
+  "axiTheme": "flat",
+  "glass": false,
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20261008-204658-qfgk",
+      "title": "Levi X Ackerman",
+      "commanders": [
+        "Levi X Ackerman"
+      ],
+      "guild": {
+        "id": "F2EE748F-C1C6-4179-B0CD-D0B19FEF59A5",
+        "name": "The Scouts Elite Regiment",
+        "tag": "TSR"
+      },
+      "dateStart": "2026-10-08T18:46:58.000Z",
+      "dateEnd": "2026-10-08T19:27:18.424Z",
+      "dateLabel": "8.10.2026, 20:46:58 - 8.10.2026, 21:27:18",
+      "url": "https://kawafussel.github.io/gw2-logs/?report=20261008-204658-qfgk",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 30,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 27
+      }
+    },
     {
       "id": "20261007-203044-uecn",
       "title": "Aliya Carwyn",
